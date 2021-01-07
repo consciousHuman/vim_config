@@ -8,3 +8,4 @@ set nocompatible 		"Use Vim settings rather than Vi settings
 set mouse=a 			" Enables mouse for scrolling and resizing
 set background=dark 		"use colors that suit a dark background
 set history=1000 		" sets big history of executed commands
+set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)
