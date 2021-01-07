@@ -1,5 +1,5 @@
 set number 			"sets line number
-colorscheme murphy 		"sets colorscheme
+colorscheme pablo 		"sets colorscheme
 set autoindent 			"enables autoindenting
 set laststatus=2 		"show status line
 set wildmenu 			"Display command line's tab complete options as menu
